@@ -12,10 +12,6 @@ Python Version Used: Python 3.6.0
 4) Start the virtual environment. You should see `(venv)` in as part of the command prompt once it is started.
 *NOTE*: To stop the virtual environment at any time, run `(venv) $ deactivate`
 5) Install all the requirements, including flask. Be sure not to use `sudo` as this will install flask in the global environment instead of the virtual environment: `(venv) $ pip install -r requirements.txt`
-6) In a separate terminal window, install PostgreSQL. 
-7) After PostgreSQL is setup
-8) In a separate terminal window, run `$ psql`. Then, run relevant checks to see if tables are created
-9) Finally, run `# \q` to quit psql, 
 
 ### To Run:
 
