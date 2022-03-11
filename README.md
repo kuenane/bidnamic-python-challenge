@@ -33,6 +33,7 @@
 
   * **Code:** 200 <br />
     
+    **Delete, Update and Patch methods to be implemented**
 
 * **Error Response:**
 
