@@ -1,9 +1,13 @@
-# bidnamic-python-challenge
-Bidnamic's Python Coding Challenge 
+### To Run:
+
+1) Set an export path for flask: `(venv) $ export FLASK_APP=app.py or (venv) $ set export FLASK_APP=app.py`
+2) Run flask! `(venv) $ flask run`
+3) Go to http://127.0.0.1:5000 in a browser
+
 
 # API Documentation
 
-**Show Doctor**
+**Show Search_Term**
 ----
   Returns json data about a single search iterm.
 
@@ -116,10 +120,6 @@ Bidnamic's Python Coding Challenge
 
 * **Data Params**
 
-  **Required:**
-
-  `description=[text]`
-  `doctor_id=[int]`
 
 * **Success Response:**
 
@@ -134,3 +134,4 @@ Bidnamic's Python Coding Challenge
 
   * **Code:** 400 UNAUTHORIZED <br />
     **Content:** `{ error : "Given item does not exist." }`
+
