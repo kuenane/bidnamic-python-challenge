@@ -7,7 +7,7 @@ Python Version Used: Python 3.6.0
 
 0) Ensure that python is installed version by checking version. To check, run `python3 -V`. If you do not have it, you can install it 
 1) Clone the Github repo: `$ git clone https://github.com/kuenane/bidnamic-python-challenge`
-2) Move into the project directory `$ cd flask-restapi`
+2) Move into the project directory `$ cd bidnamic-python-challenge`
 3) Setup a virtual environment in the project folder
 4) Start the virtual environment. You should see `(venv)` in as part of the command prompt once it is started.
 *NOTE*: To stop the virtual environment at any time, run `(venv) $ deactivate`
